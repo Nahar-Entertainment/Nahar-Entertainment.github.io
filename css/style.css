@@ -558,7 +558,7 @@ h1.big-text {
 }
 .grid-item a.item-link:hover:after,
 .grid-item a.item-link:hover .portfolio-text-holder {
-  opacity: 0.9;
+  opacity: 0.75;
 }
 .portfolio-load-content-holder {
   opacity: 0;
